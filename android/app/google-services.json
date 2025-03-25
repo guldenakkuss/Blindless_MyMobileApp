@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029132574319",
+    "project_id": "blindless-6e6e3",
+    "storage_bucket": "blindless-6e6e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029132574319:android:7d8c5e0cfada3458d5379a",
+        "android_client_info": {
+          "package_name": "com.guldenakkus.blindless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwK4vHTHrIrgTryDTFpyIC3ubRuR3f1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
